@@ -28,11 +28,11 @@
     width: 288px;
     height: 288px;
     border-radius: 15px;
-    font-weight: 700;
 }
 .qr-card h3{
     padding: 16px;
     color: hsl(218, 44%, 22%);
+    font-weight: 700;
 }
 .qr-card p{
     padding: 0px 16px 0px 16px;
