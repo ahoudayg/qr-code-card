@@ -29,9 +29,10 @@
     height: 288px;
     border-radius: 15px;
 }
-.qr-card h3{
+.qr-card h1{
     padding: 16px;
     color: hsl(218, 44%, 22%);
+    font-size: 20px;
     font-weight: 700;
 }
 .qr-card p{
